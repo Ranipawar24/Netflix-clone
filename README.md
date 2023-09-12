@@ -13,5 +13,6 @@ Tech Stacks:  CSS, React, Axios, React-youtube, Movie-trailer, API
 
 Description: The Netflix Clone Application is a user-friendly web platform that closely replicates the popular streaming service, Netflix. Users can watch movie trailers and enjoy a visually appealing design reminiscent of the actual Netflix platform.
 
-Portfolio
+
+
 
