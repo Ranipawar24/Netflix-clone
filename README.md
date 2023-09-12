@@ -1,5 +1,3 @@
-# Netflix-clone
-
 
 # Features:
 
@@ -17,12 +15,10 @@ The Netflix Clone Application is a user-friendly web platform that closely repli
 
 # Screenshots:
 
-![project6-1](https://github.com/Ranipawar24/Netflix-clone/assets/117185832/a82b05c1-de55-4bd0-810d-69926e29fbdc)
+![project6-1](https://github.com/Ranipawar24/Netflix-clone/assets/117185832/6e0d3a45-8422-4d12-bca4-eaf31890efe9)
 
 
-
-![project6-2](https://github.com/Ranipawar24/Netflix-clone/assets/117185832/4ec9bb02-ac65-406d-b054-f3556c1bcd9e)
-
+![project6-2](https://github.com/Ranipawar24/Netflix-clone/assets/117185832/5410fad1-0d71-4624-acc9-fb34476d801e)
 
 
-![project6-3](https://github.com/Ranipawar24/Netflix-clone/assets/117185832/0565e7ad-077a-43b2-a1a2-76e15649e5ae)
+![project6-3](https://github.com/Ranipawar24/Netflix-clone/assets/117185832/9d8299f1-9a86-4ca8-a4a2-3806ff3c0546)
